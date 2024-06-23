@@ -16,16 +16,16 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
 
-![OS](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![OS](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
 ![Editor](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
 ![Version Control](https://img.shields.io/badge/Version_Control-GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E)
+![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B)
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
 
 ### Connect with me:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:totorshio@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:totorshio@gmail.com)
 
 ### GitHub Stats:
 <details>
