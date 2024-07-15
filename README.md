@@ -3,7 +3,7 @@
 <h3 align="left">About:</h3>
 
 - 📖 I’m currently learning **CSS** 
-- 💻 I’m **ISFP** Personality Type
+- 💻 I’m **ISFP-T** Personality Type
 - 🤫 I’m more productive in **quiet environments**
 - 😊 My english level is [**B2**] in CEFR
 
